@@ -1,15 +1,15 @@
 # 🎃String Problems
 
-1-Write a C program to find the length of a string.
-2-Write a C program to copy one string to another string.
-3-Write a C program to concatenate two strings.
-4-Write a C program to compare two strings.
-5-Write a C program to convert lowercase string to uppercase.
-6-Write a C program to convert uppercase string to lowercase.
-7-Write a C program to toggle the case of each character of a string.
-8-Write a C program to find the total number of alphabets, digits ,or a special character in a string.
-9-Write a C program to count the total number of vowels and consonants in a string.
-10-Write a C program to count the total number of words in a string
+1-Write a C program to find the length of a string.__
+2-Write a C program to copy one string to another string.__
+3-Write a C program to concatenate two strings.__
+4-Write a C program to compare two strings.__
+5-Write a C program to convert lowercase string to uppercase.__
+6-Write a C program to convert uppercase string to lowercase.__
+7-Write a C program to toggle the case of each character of a string.__
+8-Write a C program to find the total number of alphabets, digits ,or a special character in a string.__
+9-Write a C program to count the total number of vowels and consonants in a string.__
+10-Write a C program to count the total number of words in a string__
 
 ---
 
