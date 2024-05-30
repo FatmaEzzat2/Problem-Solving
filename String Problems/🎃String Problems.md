@@ -18,11 +18,11 @@
 13-Write a C program to reverse the order of words in a given string.\
 14-Write a C program to find the first occurrence of a character in a given string.\
 15-Write a C program to find the last occurrence of a character in a given string.\
-16-Write a C program to search all occurrences of a character in the given string.\
-17-Write a C program to count occurrences of a character in the given string.\
-18-Write a C program to find the highest frequency character in a string.\
-19-Write a C program to find the lowest frequency character in a string.\
-20-Write a C program to count the frequency of each character in a string.\
+17-Write a C program to search all occurrences of a character in the given string.\
+18-Write a C program to count occurrences of a character in the given string.\
+19-Write a C program to find the highest frequency character in a string.\
+20-Write a C program to find the lowest frequency character in a string.\
+21-Write a C program to count the frequency of each character in a string.\
 
 ---
 
