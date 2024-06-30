@@ -1,12 +1,16 @@
-#include<stdio.h>
-int main()
-{
-   char*ptr="Hello ";
-   int count =0;
-   while(*ptr != '\0'){
-       count++;
-       ptr++;
-   }
-   printf("counter=%i",count);
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+
+    string s;
+    cout<<"Enter the string"<<endl;
+    cin>>s;
+    int i=0;
+    while(s[i]!='\0'){
+        i++;
+    }
+    cout<<i<<endl;
     return 0;
 }
